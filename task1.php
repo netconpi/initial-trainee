@@ -1,2 +1,2 @@
 <?php
-echo "task1";
+$initialArray = [1, 2, 3, 4];
